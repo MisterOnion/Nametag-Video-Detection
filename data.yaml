@@ -1,0 +1,6 @@
+path: C:\Users\limsi\OneDrive\Desktop\NameTag Identification Video Project\split_data
+train: C:\Users\limsi\OneDrive\Desktop\NameTag Identification Video Project\split_data\train\images
+val: C:\Users\limsi\OneDrive\Desktop\NameTag Identification Video Project\split_data\validation\images
+nc: 1
+names:
+- nametag
